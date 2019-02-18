@@ -13,12 +13,12 @@ class ArticlesTableSeeder extends Seeder
     {
         DB::table('articles')->insert([
             [
-                'title' => 'elasticsearch',
-                'content' => '一个基于Lucene的企业级搜索引擎'
+                'title' => '作业克星写字机器人火了引发网友热议',
+                'content' => '有媒体报道初三女生用压岁钱网购“写字机器人”帮自己抄写寒假作业,因为两天时间抄完作业还没有错别字,被母亲发现了端倪.'
             ],
             [
-                'title' => 'elasticsearch analysis ik',
-                'content' => '用于 elasticsearch 的中文分词插件'
+                'title' => 'NASA:2028年4名宇航员将重返月球停留7天',
+                'content' => '美国国家航空航天局(NASA)计划将在2028年登陆月球,并建立一个可持续发展的月球殖民地,以便宇航员能够定期往返于地球.'
             ]
         ]);
     }
