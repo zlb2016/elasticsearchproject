@@ -30,7 +30,7 @@ $ curl http://localhost:9200
   },
   "tagline" : "You Know, for Search"
 }
-
+```
 如果正确的打印以上信息，证明 ElasticSearch 已经安装好了，并且该项目中有ik 插件
 ## 项目运行
 1.首先运行Elasticsearch 5.1.1，进入Elasticsearch文件夹下，命令：./bin/elasticsearch
