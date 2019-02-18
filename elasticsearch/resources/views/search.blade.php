@@ -54,13 +54,5 @@
             </div>
         </div>
     @else
-        <!-- <div class="row text-center">
-            <div class="col-md-12">
-                <br>
-                <h2>你会搜索到什么？</h2>
-                <br>
-                <p>学习学习再学习公众号所有文章</p>
-            </div>
-        </div> -->
     @endif
 @endsection
