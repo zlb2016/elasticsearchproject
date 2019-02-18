@@ -39,4 +39,6 @@ $ curl http://localhost:9200
 
 3.访问localhost:8000/即可查询
 
+详情请看blog:https://blog.csdn.net/WhatPrime/article/details/87623470
+
 
